@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mares10
+- 👋 Hi, I’m @Elias Maturure
 - 👀 I’m interested in ... Creating apps and Ai
 - 🌱 I’m currently learning ...Computer Science
 - 💞️ I’m looking to collaborate on ...Projects
