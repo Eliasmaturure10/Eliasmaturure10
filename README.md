@@ -1,4 +1,5 @@
-##Hi, I'm Elias
+Hi, I'm Elias
+
 I'm a first-year Computer Science student at the University of the Ozarks, passionate about data science, Artificial Intelligence, Machine Learning, and building things that make life easier.
 
 🌱 Currently learning: Python, Java, and data analytics
