@@ -8,9 +8,9 @@ I'm a  Computer Science student passionate about data science, Artificial Intell
 
 🎯 Goal: Become a data scientist and use AI for good
 
-💬 Ask me about: CS50, data visualizations, or beginner coding projects
+💬 Ask me about: Machine Learning, Artificial Inteligent, Data SCience, or beginner coding projects
 
-📫 How to reach me: [maturureelias10@gmail.com
+📫 How to reach me: [maturureelias10@gmail.com]
 
 
 
