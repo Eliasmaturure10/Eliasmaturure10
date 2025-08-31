@@ -1,14 +1,14 @@
 Hi, I'm Elias
 
-I'm a  Computer Science student passionate about data science, Artificial Intelligence, Machine Learning, and building things that make life easier.
+I'm a  Computer Science student passionate about data science, Artificial Intelligence, Machine Learning, and building AI-powered solutions that make life easier.
 
-🌱 Currently learning: Python, Java, and data analytics
+🌱 Currently learning: Machine Learning, ,Data Science and Artificial Inteligent
 
 🔭 Working on: Small projects to grow my coding and data skills
 
 🎯 Goal: Become a data scientist and use AI for good
 
-💬 Ask me about: Machine Learning, Artificial Inteligent, Data SCience, or beginner coding projects
+💬 Ask me about: Machine Learning, Artificial Intelligence, Data Science, or beginner coding projects
 
 📫 How to reach me: [maturureelias10@gmail.com]
 
